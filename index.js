@@ -1,5 +1,7 @@
-import _ from 'lodash'
+import _ from "lodash";
 
-console.log('Hello, Hexlet!')
+console.log("Hello, Hexlet!");
 
-const a = (i) => {console.log(i*5)}
+const a = (i) => {
+  console.log(i * 5);
+};
