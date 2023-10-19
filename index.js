@@ -8,4 +8,4 @@ const a = (i) => {
   console.log(i * 5);
 };
 
-console.log(a(4));
+a(4);
